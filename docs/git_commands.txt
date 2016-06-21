@@ -1,0 +1,10 @@
+An overview of some useful git commands:
+
+git init
+git remote add origin <url>
+git remote -v
+git status
+
+git add <file>
+git commit -m "<message>"
+git push
